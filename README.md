@@ -1,7 +1,7 @@
 # MidnightCeeLo 
-A famous dice game recreated in python.
-Author: Valentin Cain
-Version: V1.0
+A famous dice game recreated in python.\
+Author: Valentin Cain\
+Version: V1.0\
 Creation Date: 2018
 
 
